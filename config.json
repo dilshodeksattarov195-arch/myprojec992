@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsftringify",
+        "uuid": 767808,
+        "checksum": "hcxzt"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
